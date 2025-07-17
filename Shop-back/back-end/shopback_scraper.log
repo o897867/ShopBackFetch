@@ -1,0 +1,373 @@
+2025-07-16 14:21:25,781 - INFO - SQLite数据库初始化成功: debug_test2.db
+2025-07-16 14:21:25,782 - INFO - 正在抓取: https://www.shopback.com.au/agoda
+2025-07-16 14:21:27,003 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-07-16 14:21:27,023 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 14:21:27,026 - INFO - 成功抓取 Agoda: 0%, 0 个详细分类 (耗时: 1.24秒)
+2025-07-16 14:21:27,030 - INFO - 准备保存商家: Agoda
+2025-07-16 14:21:27,043 - INFO - 主要cashback: '0%'
+2025-07-16 14:21:27,043 - INFO - URL: https://www.shopback.com.au/agoda
+2025-07-16 14:21:27,043 - INFO - 是否upsized: False
+2025-07-16 14:21:27,044 - INFO - 商家ID: 1
+2025-07-16 14:21:27,044 - INFO - 插入主要cashback记录...
+2025-07-16 14:21:27,044 - INFO - 更新统计信息...
+2025-07-16 14:21:27,052 - INFO - 成功保存到数据库: Agoda
+2025-07-16 14:31:44,562 - INFO - SQLite数据库初始化成功: shopback_test.db
+2025-07-16 14:31:44,562 - INFO - 正在抓取: https://www.shopback.com.au/agoda
+2025-07-16 14:31:45,802 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-07-16 14:31:45,816 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 14:31:45,820 - INFO - 成功抓取 Agoda: 0%, 0 个详细分类 (耗时: 1.26秒)
+2025-07-16 14:31:45,823 - INFO - 准备保存商家: Agoda
+2025-07-16 14:31:45,826 - INFO - 主要cashback: '0%'
+2025-07-16 14:31:45,826 - INFO - URL: https://www.shopback.com.au/agoda
+2025-07-16 14:31:45,826 - INFO - 是否upsized: False
+2025-07-16 14:31:45,826 - INFO - 商家ID: 1
+2025-07-16 14:31:45,826 - INFO - 插入主要cashback记录...
+2025-07-16 14:31:45,827 - INFO - 更新统计信息...
+2025-07-16 14:31:45,835 - INFO - 成功保存到数据库: Agoda
+2025-07-16 14:31:47,836 - INFO - 正在抓取: https://www.shopback.com.au/amazon-australia
+2025-07-16 14:31:48,725 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-07-16 14:31:48,733 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 14:31:48,734 - INFO - 成功抓取 Amazon Australia: 0%, 0 个详细分类 (耗时: 0.90秒)
+2025-07-16 14:31:48,734 - INFO - 准备保存商家: Amazon Australia
+2025-07-16 14:31:48,734 - INFO - 主要cashback: '0%'
+2025-07-16 14:31:48,734 - INFO - URL: https://www.shopback.com.au/amazon-australia
+2025-07-16 14:31:48,734 - INFO - 是否upsized: False
+2025-07-16 14:31:48,734 - INFO - 商家ID: 2
+2025-07-16 14:31:48,734 - INFO - 插入主要cashback记录...
+2025-07-16 14:31:48,734 - INFO - 更新统计信息...
+2025-07-16 14:31:48,740 - INFO - 成功保存到数据库: Amazon Australia
+2025-07-16 14:31:50,742 - INFO - 正在抓取: https://www.shopback.com.au/booking-com
+2025-07-16 14:31:51,448 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-07-16 14:31:51,457 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 14:31:51,457 - INFO - 成功抓取 Booking Com: 0%, 0 个详细分类 (耗时: 0.71秒)
+2025-07-16 14:31:51,457 - INFO - 准备保存商家: Booking Com
+2025-07-16 14:31:51,457 - INFO - 主要cashback: '0%'
+2025-07-16 14:31:51,457 - INFO - URL: https://www.shopback.com.au/booking-com
+2025-07-16 14:31:51,457 - INFO - 是否upsized: False
+2025-07-16 14:31:51,458 - INFO - 商家ID: 3
+2025-07-16 14:31:51,458 - INFO - 插入主要cashback记录...
+2025-07-16 14:31:51,468 - INFO - 更新统计信息...
+2025-07-16 14:31:51,474 - INFO - 成功保存到数据库: Booking Com
+2025-07-16 14:31:53,475 - INFO - 正在抓取: https://www.shopback.com.au/david-jones
+2025-07-16 14:31:54,266 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-07-16 14:31:54,272 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 14:31:54,273 - INFO - 成功抓取 David Jones: 0%, 0 个详细分类 (耗时: 0.80秒)
+2025-07-16 14:31:54,273 - INFO - 准备保存商家: David Jones
+2025-07-16 14:31:54,273 - INFO - 主要cashback: '0%'
+2025-07-16 14:31:54,273 - INFO - URL: https://www.shopback.com.au/david-jones
+2025-07-16 14:31:54,273 - INFO - 是否upsized: False
+2025-07-16 14:31:54,273 - INFO - 商家ID: 4
+2025-07-16 14:31:54,273 - INFO - 插入主要cashback记录...
+2025-07-16 14:31:54,273 - INFO - 更新统计信息...
+2025-07-16 14:31:54,287 - INFO - 成功保存到数据库: David Jones
+2025-07-16 14:31:56,290 - INFO - 数据库连接已关闭
+2025-07-16 14:45:13,219 - INFO - SQLite数据库初始化成功: shopback_test.db
+2025-07-16 14:45:13,219 - INFO - 正在抓取: https://www.shopback.com.au/agoda
+2025-07-16 14:45:14,372 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-07-16 14:45:14,386 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 14:45:14,390 - INFO - 成功抓取 Agoda: 0%, 0 个详细分类 (耗时: 1.17秒)
+2025-07-16 14:45:14,393 - INFO - 准备保存商家: Agoda
+2025-07-16 14:45:14,397 - INFO - 主要cashback: '0%'
+2025-07-16 14:45:14,397 - INFO - URL: https://www.shopback.com.au/agoda
+2025-07-16 14:45:14,397 - INFO - 是否upsized: False
+2025-07-16 14:45:14,397 - INFO - 商家ID: 1
+2025-07-16 14:45:14,398 - INFO - 插入主要cashback记录...
+2025-07-16 14:45:14,399 - INFO - 更新统计信息...
+2025-07-16 14:45:14,411 - INFO - 成功保存到数据库: Agoda
+2025-07-16 14:45:16,414 - INFO - 正在抓取: https://www.shopback.com.au/amazon-australia
+2025-07-16 14:45:17,463 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-07-16 14:45:17,489 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 14:45:17,489 - INFO - 成功抓取 Amazon Australia: 0%, 0 个详细分类 (耗时: 1.08秒)
+2025-07-16 14:45:17,489 - INFO - 准备保存商家: Amazon Australia
+2025-07-16 14:45:17,489 - INFO - 主要cashback: '0%'
+2025-07-16 14:45:17,489 - INFO - URL: https://www.shopback.com.au/amazon-australia
+2025-07-16 14:45:17,489 - INFO - 是否upsized: False
+2025-07-16 14:45:17,489 - INFO - 商家ID: 2
+2025-07-16 14:45:17,489 - INFO - 插入主要cashback记录...
+2025-07-16 14:45:17,489 - INFO - 更新统计信息...
+2025-07-16 14:45:17,505 - INFO - 成功保存到数据库: Amazon Australia
+2025-07-16 14:45:19,506 - INFO - 正在抓取: https://www.shopback.com.au/booking-com
+2025-07-16 14:45:20,143 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-07-16 14:45:20,150 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 14:45:20,150 - INFO - 成功抓取 Booking Com: 0%, 0 个详细分类 (耗时: 0.64秒)
+2025-07-16 14:45:20,150 - INFO - 准备保存商家: Booking Com
+2025-07-16 14:45:20,150 - INFO - 主要cashback: '0%'
+2025-07-16 14:45:20,150 - INFO - URL: https://www.shopback.com.au/booking-com
+2025-07-16 14:45:20,150 - INFO - 是否upsized: False
+2025-07-16 14:45:20,150 - INFO - 商家ID: 3
+2025-07-16 14:45:20,150 - INFO - 插入主要cashback记录...
+2025-07-16 14:45:20,151 - INFO - 更新统计信息...
+2025-07-16 14:45:20,164 - INFO - 成功保存到数据库: Booking Com
+2025-07-16 14:45:22,166 - INFO - 正在抓取: https://www.shopback.com.au/david-jones
+2025-07-16 14:45:22,873 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-07-16 14:45:22,883 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 14:45:22,883 - INFO - 成功抓取 David Jones: 0%, 0 个详细分类 (耗时: 0.72秒)
+2025-07-16 14:45:22,883 - INFO - 准备保存商家: David Jones
+2025-07-16 14:45:22,883 - INFO - 主要cashback: '0%'
+2025-07-16 14:45:22,883 - INFO - URL: https://www.shopback.com.au/david-jones
+2025-07-16 14:45:22,883 - INFO - 是否upsized: False
+2025-07-16 14:45:22,883 - INFO - 商家ID: 4
+2025-07-16 14:45:22,883 - INFO - 插入主要cashback记录...
+2025-07-16 14:45:22,883 - INFO - 更新统计信息...
+2025-07-16 14:45:22,891 - INFO - 成功保存到数据库: David Jones
+2025-07-16 14:45:24,892 - INFO - 数据库连接已关闭
+2025-07-16 15:05:37,895 - INFO - SQLite数据库初始化成功: shopback_test.db
+2025-07-16 15:05:37,898 - INFO - 正在抓取: https://www.shopback.com.au/agoda
+2025-07-16 15:05:39,099 - INFO - 从current-offer找到主要cashback: Up to 5.5% Cashback
+2025-07-16 15:05:39,101 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 15:05:39,101 - INFO - 在简单结构中找到 3 个rate行
+2025-07-16 15:05:39,101 - INFO - 简单结构提取到rate 1: Hotels (With Coupon) -> 5.5%
+2025-07-16 15:05:39,101 - INFO - 简单结构提取到rate 2: Hotels -> 5.5%
+2025-07-16 15:05:39,101 - INFO - 简单结构提取到rate 3: Package (Hotel portion) -> 5.5%
+2025-07-16 15:05:39,101 - INFO - 成功抓取 Agoda: Up to 5.5% Cashback, 3 个详细分类 (耗时: 1.20秒)
+2025-07-16 15:05:39,102 - INFO - 准备保存商家: Agoda
+2025-07-16 15:05:39,102 - INFO - 主要cashback: 'Up to 5.5% Cashback'
+2025-07-16 15:05:39,102 - INFO - URL: https://www.shopback.com.au/agoda
+2025-07-16 15:05:39,102 - INFO - 是否upsized: False
+2025-07-16 15:05:39,102 - INFO - 商家ID: 1
+2025-07-16 15:05:39,102 - INFO - 插入主要cashback记录...
+2025-07-16 15:05:39,102 - INFO - 插入分类记录: Hotels (With Coupon) -> 5.5%
+2025-07-16 15:05:39,102 - INFO - 插入分类记录: Hotels -> 5.5%
+2025-07-16 15:05:39,102 - INFO - 插入分类记录: Package (Hotel portion) -> 5.5%
+2025-07-16 15:05:39,102 - INFO - 更新统计信息...
+2025-07-16 15:05:39,108 - INFO - 成功保存到数据库: Agoda
+2025-07-16 15:05:41,110 - INFO - 正在抓取: https://www.shopback.com.au/amazon-australia
+2025-07-16 15:05:41,929 - INFO - 从current-offer找到主要cashback: Up to 5% Cashback
+2025-07-16 15:05:41,935 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 15:05:41,936 - INFO - 在简单结构中找到 0 个rate行
+2025-07-16 15:05:41,938 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 15:05:41,939 - INFO - 成功抓取 Amazon: Up to 5% Cashback, 0 个详细分类 (耗时: 0.83秒)
+2025-07-16 15:05:41,939 - INFO - 准备保存商家: Amazon
+2025-07-16 15:05:41,939 - INFO - 主要cashback: 'Up to 5% Cashback'
+2025-07-16 15:05:41,940 - INFO - URL: https://www.shopback.com.au/amazon-australia
+2025-07-16 15:05:41,940 - INFO - 是否upsized: False
+2025-07-16 15:05:41,940 - INFO - 商家ID: 14
+2025-07-16 15:05:41,940 - INFO - 插入主要cashback记录...
+2025-07-16 15:05:41,940 - INFO - 更新统计信息...
+2025-07-16 15:05:41,947 - INFO - 成功保存到数据库: Amazon
+2025-07-16 15:05:43,950 - INFO - 正在抓取: https://www.shopback.com.au/booking-com
+2025-07-16 15:05:44,750 - INFO - 从current-offer找到主要cashback: 10% Cashback
+2025-07-16 15:05:44,751 - INFO - 检测到Upsized标签
+2025-07-16 15:05:44,751 - INFO - 从worse-offer找到之前的优惠: 5.5%
+2025-07-16 15:05:44,752 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 15:05:44,752 - INFO - 在简单结构中找到 0 个rate行
+2025-07-16 15:05:44,753 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 15:05:44,753 - INFO - 成功抓取 Booking.com: 10% Cashback, 0 个详细分类 (耗时: 0.80秒)
+2025-07-16 15:05:44,753 - INFO - 准备保存商家: Booking.com
+2025-07-16 15:05:44,753 - INFO - 主要cashback: '10% Cashback'
+2025-07-16 15:05:44,753 - INFO - URL: https://www.shopback.com.au/booking-com
+2025-07-16 15:05:44,754 - INFO - 是否upsized: True
+2025-07-16 15:05:44,754 - INFO - 商家ID: 15
+2025-07-16 15:05:44,755 - INFO - 插入主要cashback记录...
+2025-07-16 15:05:44,755 - INFO - 更新统计信息...
+2025-07-16 15:05:44,791 - INFO - 成功保存到数据库: Booking.com
+2025-07-16 15:05:46,793 - INFO - 正在抓取: https://www.shopback.com.au/david-jones
+2025-07-16 15:05:47,568 - INFO - 从current-offer找到主要cashback: 1.25% Cashback
+2025-07-16 15:05:47,570 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 15:05:47,570 - INFO - 在简单结构中找到 0 个rate行
+2025-07-16 15:05:47,571 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 15:05:47,571 - INFO - 成功抓取 David Jones: 1.25% Cashback, 0 个详细分类 (耗时: 0.78秒)
+2025-07-16 15:05:47,574 - INFO - 准备保存商家: David Jones
+2025-07-16 15:05:47,577 - INFO - 主要cashback: '1.25% Cashback'
+2025-07-16 15:05:47,577 - INFO - URL: https://www.shopback.com.au/david-jones
+2025-07-16 15:05:47,577 - INFO - 是否upsized: False
+2025-07-16 15:05:47,577 - INFO - 商家ID: 4
+2025-07-16 15:05:47,577 - INFO - 插入主要cashback记录...
+2025-07-16 15:05:47,577 - INFO - 更新统计信息...
+2025-07-16 15:05:47,582 - INFO - 成功保存到数据库: David Jones
+2025-07-16 15:05:49,584 - INFO - 数据库连接已关闭
+2025-07-16 19:53:07,522 - INFO - SQLite数据库初始化成功: shopback_test.db
+2025-07-16 19:53:07,523 - INFO - 正在抓取: https://www.shopback.com.au/agoda
+2025-07-16 19:53:08,942 - INFO - 从current-offer找到主要cashback: Up to 5.5% Cashback
+2025-07-16 19:53:08,949 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 19:53:08,953 - INFO - 在简单结构中找到 3 个rate行
+2025-07-16 19:53:08,957 - INFO - 简单结构提取到rate 1: Hotels (With Coupon) -> 5.5%
+2025-07-16 19:53:08,961 - INFO - 简单结构提取到rate 2: Hotels -> 5.5%
+2025-07-16 19:53:08,961 - INFO - 简单结构提取到rate 3: Package (Hotel portion) -> 5.5%
+2025-07-16 19:53:08,961 - INFO - 成功抓取 Agoda: Up to 5.5% Cashback, 3 个详细分类 (耗时: 1.44秒)
+2025-07-16 19:53:08,961 - INFO - 准备保存商家: Agoda
+2025-07-16 19:53:08,961 - INFO - 主要cashback: 'Up to 5.5% Cashback'
+2025-07-16 19:53:08,961 - INFO - URL: https://www.shopback.com.au/agoda
+2025-07-16 19:53:08,961 - INFO - 是否upsized: False
+2025-07-16 19:53:08,961 - INFO - 商家ID: 1
+2025-07-16 19:53:08,962 - INFO - 插入主要cashback记录...
+2025-07-16 19:53:08,962 - INFO - 插入分类记录: Hotels (With Coupon) -> 5.5%
+2025-07-16 19:53:08,962 - INFO - 插入分类记录: Hotels -> 5.5%
+2025-07-16 19:53:08,962 - INFO - 插入分类记录: Package (Hotel portion) -> 5.5%
+2025-07-16 19:53:08,962 - INFO - 更新统计信息...
+2025-07-16 19:53:08,972 - INFO - 成功保存到数据库: Agoda
+2025-07-16 19:53:10,974 - INFO - 正在抓取: https://www.shopback.com.au/amazon-australia
+2025-07-16 19:53:11,807 - INFO - 从current-offer找到主要cashback: Up to 5% Cashback
+2025-07-16 19:53:11,814 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 19:53:11,815 - INFO - 在简单结构中找到 0 个rate行
+2025-07-16 19:53:11,816 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 19:53:11,816 - INFO - 成功抓取 Amazon: Up to 5% Cashback, 0 个详细分类 (耗时: 0.84秒)
+2025-07-16 19:53:11,817 - INFO - 准备保存商家: Amazon
+2025-07-16 19:53:11,817 - INFO - 主要cashback: 'Up to 5% Cashback'
+2025-07-16 19:53:11,817 - INFO - URL: https://www.shopback.com.au/amazon-australia
+2025-07-16 19:53:11,817 - INFO - 是否upsized: False
+2025-07-16 19:53:11,817 - INFO - 商家ID: 14
+2025-07-16 19:53:11,818 - INFO - 插入主要cashback记录...
+2025-07-16 19:53:11,818 - INFO - 更新统计信息...
+2025-07-16 19:53:11,826 - INFO - 成功保存到数据库: Amazon
+2025-07-16 19:53:13,842 - INFO - 正在抓取: https://www.shopback.com.au/booking-com
+2025-07-16 19:53:14,635 - INFO - 从current-offer找到主要cashback: 10% Cashback
+2025-07-16 19:53:14,639 - INFO - 检测到Upsized标签
+2025-07-16 19:53:14,643 - INFO - 从worse-offer找到之前的优惠: 5.5%
+2025-07-16 19:53:14,660 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 19:53:14,661 - INFO - 在简单结构中找到 0 个rate行
+2025-07-16 19:53:14,663 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 19:53:14,663 - INFO - 成功抓取 Booking.com: 10% Cashback, 0 个详细分类 (耗时: 0.82秒)
+2025-07-16 19:53:14,663 - INFO - 准备保存商家: Booking.com
+2025-07-16 19:53:14,663 - INFO - 主要cashback: '10% Cashback'
+2025-07-16 19:53:14,663 - INFO - URL: https://www.shopback.com.au/booking-com
+2025-07-16 19:53:14,663 - INFO - 是否upsized: True
+2025-07-16 19:53:14,663 - INFO - 商家ID: 15
+2025-07-16 19:53:14,663 - INFO - 插入主要cashback记录...
+2025-07-16 19:53:14,664 - INFO - 更新统计信息...
+2025-07-16 19:53:14,670 - INFO - 成功保存到数据库: Booking.com
+2025-07-16 19:53:16,673 - INFO - 正在抓取: https://www.shopback.com.au/david-jones
+2025-07-16 19:53:17,627 - INFO - 从current-offer找到主要cashback: 1.25% Cashback
+2025-07-16 19:53:17,640 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 19:53:17,655 - INFO - 在简单结构中找到 0 个rate行
+2025-07-16 19:53:17,662 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 19:53:17,666 - INFO - 成功抓取 David Jones: 1.25% Cashback, 0 个详细分类 (耗时: 0.99秒)
+2025-07-16 19:53:17,666 - INFO - 准备保存商家: David Jones
+2025-07-16 19:53:17,666 - INFO - 主要cashback: '1.25% Cashback'
+2025-07-16 19:53:17,666 - INFO - URL: https://www.shopback.com.au/david-jones
+2025-07-16 19:53:17,666 - INFO - 是否upsized: False
+2025-07-16 19:53:17,666 - INFO - 商家ID: 4
+2025-07-16 19:53:17,667 - INFO - 插入主要cashback记录...
+2025-07-16 19:53:17,668 - INFO - 更新统计信息...
+2025-07-16 19:53:17,678 - INFO - 成功保存到数据库: David Jones
+2025-07-16 19:53:19,681 - INFO - 数据库连接已关闭
+2025-07-16 19:56:16,634 - INFO - SQLite数据库初始化成功: shopback_test.db
+2025-07-16 19:56:16,634 - INFO - 正在抓取: https://www.shopback.com.au/agoda
+2025-07-16 19:56:17,850 - INFO - 从current-offer找到主要cashback: Up to 5.5% Cashback
+2025-07-16 19:56:17,874 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 19:56:17,875 - INFO - 在简单结构中找到 3 个rate行
+2025-07-16 19:56:17,875 - INFO - 简单结构提取到rate 1: Hotels (With Coupon) -> 5.5%
+2025-07-16 19:56:17,875 - INFO - 简单结构提取到rate 2: Hotels -> 5.5%
+2025-07-16 19:56:17,875 - INFO - 简单结构提取到rate 3: Package (Hotel portion) -> 5.5%
+2025-07-16 19:56:17,875 - INFO - 成功抓取 Agoda: Up to 5.5% Cashback, 3 个详细分类 (耗时: 1.24秒)
+2025-07-16 19:56:17,875 - INFO - 准备保存商家: Agoda
+2025-07-16 19:56:17,875 - INFO - 主要cashback: 'Up to 5.5% Cashback'
+2025-07-16 19:56:17,875 - INFO - URL: https://www.shopback.com.au/agoda
+2025-07-16 19:56:17,876 - INFO - 是否upsized: False
+2025-07-16 19:56:17,876 - INFO - 商家ID: 1
+2025-07-16 19:56:17,876 - INFO - 插入主要cashback记录...
+2025-07-16 19:56:17,876 - INFO - 插入分类记录: Hotels (With Coupon) -> 5.5%
+2025-07-16 19:56:17,876 - INFO - 插入分类记录: Hotels -> 5.5%
+2025-07-16 19:56:17,876 - INFO - 插入分类记录: Package (Hotel portion) -> 5.5%
+2025-07-16 19:56:17,876 - INFO - 更新统计信息...
+2025-07-16 19:56:17,882 - INFO - 成功保存到数据库: Agoda
+2025-07-16 19:56:19,886 - INFO - 正在抓取: https://www.shopback.com.au/amazon-australia
+2025-07-16 19:56:20,770 - INFO - 从current-offer找到主要cashback: Up to 5% Cashback
+2025-07-16 19:56:20,776 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 19:56:20,792 - INFO - 在简单结构中找到 0 个rate行
+2025-07-16 19:56:20,794 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 19:56:20,794 - INFO - 成功抓取 Amazon: Up to 5% Cashback, 0 个详细分类 (耗时: 0.91秒)
+2025-07-16 19:56:20,794 - INFO - 准备保存商家: Amazon
+2025-07-16 19:56:20,794 - INFO - 主要cashback: 'Up to 5% Cashback'
+2025-07-16 19:56:20,794 - INFO - URL: https://www.shopback.com.au/amazon-australia
+2025-07-16 19:56:20,794 - INFO - 是否upsized: False
+2025-07-16 19:56:20,794 - INFO - 商家ID: 14
+2025-07-16 19:56:20,794 - INFO - 插入主要cashback记录...
+2025-07-16 19:56:20,794 - INFO - 更新统计信息...
+2025-07-16 19:56:20,800 - INFO - 成功保存到数据库: Amazon
+2025-07-16 19:56:22,803 - INFO - 正在抓取: https://www.shopback.com.au/booking-com
+2025-07-16 19:56:23,885 - INFO - 从current-offer找到主要cashback: 10% Cashback
+2025-07-16 19:56:23,886 - INFO - 检测到Upsized标签
+2025-07-16 19:56:23,900 - INFO - 从worse-offer找到之前的优惠: 5.5%
+2025-07-16 19:56:23,900 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 19:56:23,901 - INFO - 在简单结构中找到 0 个rate行
+2025-07-16 19:56:23,902 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 19:56:23,902 - INFO - 成功抓取 Booking.com: 10% Cashback, 0 个详细分类 (耗时: 1.10秒)
+2025-07-16 19:56:23,902 - INFO - 准备保存商家: Booking.com
+2025-07-16 19:56:23,902 - INFO - 主要cashback: '10% Cashback'
+2025-07-16 19:56:23,903 - INFO - URL: https://www.shopback.com.au/booking-com
+2025-07-16 19:56:23,903 - INFO - 是否upsized: True
+2025-07-16 19:56:23,903 - INFO - 商家ID: 15
+2025-07-16 19:56:23,903 - INFO - 插入主要cashback记录...
+2025-07-16 19:56:23,903 - INFO - 更新统计信息...
+2025-07-16 19:56:23,921 - INFO - 成功保存到数据库: Booking.com
+2025-07-16 19:56:25,921 - INFO - 正在抓取: https://www.shopback.com.au/david-jones
+2025-07-16 19:56:26,683 - INFO - 从current-offer找到主要cashback: 1.25% Cashback
+2025-07-16 19:56:26,688 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 19:56:26,688 - INFO - 在简单结构中找到 0 个rate行
+2025-07-16 19:56:26,691 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 19:56:26,693 - INFO - 成功抓取 David Jones: 1.25% Cashback, 0 个详细分类 (耗时: 0.77秒)
+2025-07-16 19:56:26,694 - INFO - 准备保存商家: David Jones
+2025-07-16 19:56:26,694 - INFO - 主要cashback: '1.25% Cashback'
+2025-07-16 19:56:26,694 - INFO - URL: https://www.shopback.com.au/david-jones
+2025-07-16 19:56:26,694 - INFO - 是否upsized: False
+2025-07-16 19:56:26,694 - INFO - 商家ID: 4
+2025-07-16 19:56:26,694 - INFO - 插入主要cashback记录...
+2025-07-16 19:56:26,695 - INFO - 更新统计信息...
+2025-07-16 19:56:26,705 - INFO - 成功保存到数据库: David Jones
+2025-07-16 19:56:28,708 - INFO - 数据库连接已关闭
+2025-07-16 19:59:57,456 - INFO - SQLite数据库初始化成功: shopback_data.db
+2025-07-16 19:59:57,456 - INFO - 正在抓取: https://www.shopback.com.au/agoda
+2025-07-16 19:59:58,841 - INFO - 从current-offer找到主要cashback: Up to 5.5% Cashback
+2025-07-16 19:59:58,853 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 19:59:58,853 - INFO - 在简单结构中找到 3 个rate行
+2025-07-16 19:59:58,854 - INFO - 简单结构提取到rate 1: Hotels (With Coupon) -> 5.5%
+2025-07-16 19:59:58,854 - INFO - 简单结构提取到rate 2: Hotels -> 5.5%
+2025-07-16 19:59:58,854 - INFO - 简单结构提取到rate 3: Package (Hotel portion) -> 5.5%
+2025-07-16 19:59:58,854 - INFO - 成功抓取 Agoda: Up to 5.5% Cashback, 3 个详细分类 (耗时: 1.40秒)
+2025-07-16 19:59:58,854 - INFO - 准备保存商家: Agoda
+2025-07-16 19:59:58,854 - INFO - 主要cashback: 'Up to 5.5% Cashback'
+2025-07-16 19:59:58,854 - INFO - URL: https://www.shopback.com.au/agoda
+2025-07-16 19:59:58,854 - INFO - 是否upsized: False
+2025-07-16 19:59:58,855 - INFO - 商家ID: 1
+2025-07-16 19:59:58,855 - INFO - 插入主要cashback记录...
+2025-07-16 19:59:58,855 - INFO - 插入分类记录: Hotels (With Coupon) -> 5.5%
+2025-07-16 19:59:58,855 - INFO - 插入分类记录: Hotels -> 5.5%
+2025-07-16 19:59:58,855 - INFO - 插入分类记录: Package (Hotel portion) -> 5.5%
+2025-07-16 19:59:58,855 - INFO - 更新统计信息...
+2025-07-16 19:59:58,863 - INFO - 成功保存到数据库: Agoda
+2025-07-16 20:00:00,865 - INFO - 正在抓取: https://www.shopback.com.au/amazon-australia
+2025-07-16 20:00:02,073 - INFO - 从current-offer找到主要cashback: Up to 5% Cashback
+2025-07-16 20:00:02,094 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 20:00:02,094 - INFO - 在简单结构中找到 0 个rate行
+2025-07-16 20:00:02,096 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 20:00:02,120 - INFO - 成功抓取 Amazon: Up to 5% Cashback, 0 个详细分类 (耗时: 1.25秒)
+2025-07-16 20:00:02,120 - INFO - 准备保存商家: Amazon
+2025-07-16 20:00:02,120 - INFO - 主要cashback: 'Up to 5% Cashback'
+2025-07-16 20:00:02,120 - INFO - URL: https://www.shopback.com.au/amazon-australia
+2025-07-16 20:00:02,120 - INFO - 是否upsized: False
+2025-07-16 20:00:02,120 - INFO - 商家ID: 2
+2025-07-16 20:00:02,121 - INFO - 插入主要cashback记录...
+2025-07-16 20:00:02,121 - INFO - 更新统计信息...
+2025-07-16 20:00:02,133 - INFO - 成功保存到数据库: Amazon
+2025-07-16 20:00:04,136 - INFO - 正在抓取: https://www.shopback.com.au/booking-com
+2025-07-16 20:00:04,935 - INFO - 从current-offer找到主要cashback: 10% Cashback
+2025-07-16 20:00:04,942 - INFO - 检测到Upsized标签
+2025-07-16 20:00:04,963 - INFO - 从worse-offer找到之前的优惠: 5.5%
+2025-07-16 20:00:04,963 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 20:00:04,964 - INFO - 在简单结构中找到 0 个rate行
+2025-07-16 20:00:04,965 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 20:00:04,965 - INFO - 成功抓取 Booking.com: 10% Cashback, 0 个详细分类 (耗时: 0.83秒)
+2025-07-16 20:00:04,965 - INFO - 准备保存商家: Booking.com
+2025-07-16 20:00:04,965 - INFO - 主要cashback: '10% Cashback'
+2025-07-16 20:00:04,965 - INFO - URL: https://www.shopback.com.au/booking-com
+2025-07-16 20:00:04,965 - INFO - 是否upsized: True
+2025-07-16 20:00:04,966 - INFO - 商家ID: 3
+2025-07-16 20:00:04,966 - INFO - 插入主要cashback记录...
+2025-07-16 20:00:04,966 - INFO - 更新统计信息...
+2025-07-16 20:00:04,976 - INFO - 成功保存到数据库: Booking.com
+2025-07-16 20:00:06,979 - INFO - 正在抓取: https://www.shopback.com.au/david-jones
+2025-07-16 20:00:08,041 - INFO - 从current-offer找到主要cashback: 1.25% Cashback
+2025-07-16 20:00:08,044 - INFO - 找到cashback-rates容器 (简单结构)
+2025-07-16 20:00:08,044 - INFO - 在简单结构中找到 0 个rate行
+2025-07-16 20:00:08,045 - WARNING - 未找到任何cashback-rates容器
+2025-07-16 20:00:08,046 - INFO - 成功抓取 David Jones: 1.25% Cashback, 0 个详细分类 (耗时: 1.07秒)
+2025-07-16 20:00:08,046 - INFO - 准备保存商家: David Jones
+2025-07-16 20:00:08,046 - INFO - 主要cashback: '1.25% Cashback'
+2025-07-16 20:00:08,046 - INFO - URL: https://www.shopback.com.au/david-jones
+2025-07-16 20:00:08,046 - INFO - 是否upsized: False
+2025-07-16 20:00:08,046 - INFO - 商家ID: 4
+2025-07-16 20:00:08,046 - INFO - 插入主要cashback记录...
+2025-07-16 20:00:08,046 - INFO - 更新统计信息...
+2025-07-16 20:00:08,055 - INFO - 成功保存到数据库: David Jones
+2025-07-16 20:00:10,057 - INFO - 数据库连接已关闭

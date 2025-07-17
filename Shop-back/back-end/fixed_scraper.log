@@ -1,0 +1,90 @@
+2025-07-16 14:53:10,950 - INFO - 数据库初始化成功
+2025-07-16 14:53:10,951 - INFO - 开始抓取商家页面: https://www.shopback.com.au/agoda
+2025-07-16 14:53:12,190 - INFO - 请求成功，状态码: 200
+2025-07-16 14:53:12,190 - INFO - 内容长度: 64976
+2025-07-16 14:53:12,269 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-07-16 14:53:12,288 - INFO - 调试HTML已保存到: debug_agoda.html
+2025-07-16 14:53:12,289 - INFO - 开始提取主要cashback信息
+2025-07-16 14:53:12,298 - INFO - 开始提取详细cashback比例
+2025-07-16 14:53:12,302 - INFO - 提取结果: Agoda
+2025-07-16 14:53:12,302 - INFO - 主要cashback: 0%
+2025-07-16 14:53:12,302 - INFO - 详细rates数量: 0
+2025-07-16 14:53:12,310 - INFO - 数据已保存到数据库: Agoda
+2025-07-16 14:53:15,313 - INFO - 开始抓取商家页面: https://www.shopback.com.au/amazon-australia
+2025-07-16 14:53:16,149 - INFO - 请求成功，状态码: 200
+2025-07-16 14:53:16,150 - INFO - 内容长度: 74145
+2025-07-16 14:53:16,172 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-07-16 14:53:16,182 - INFO - 调试HTML已保存到: debug_amazon-australia.html
+2025-07-16 14:53:16,183 - INFO - 开始提取主要cashback信息
+2025-07-16 14:53:16,187 - INFO - 开始提取详细cashback比例
+2025-07-16 14:53:16,190 - INFO - 提取结果: Amazon Australia
+2025-07-16 14:53:16,190 - INFO - 主要cashback: 0%
+2025-07-16 14:53:16,190 - INFO - 详细rates数量: 0
+2025-07-16 14:53:16,207 - INFO - 数据已保存到数据库: Amazon Australia
+2025-07-16 14:53:19,210 - INFO - 开始抓取商家页面: https://www.shopback.com.au/booking-com
+2025-07-16 14:53:19,897 - INFO - 请求成功，状态码: 200
+2025-07-16 14:53:19,897 - INFO - 内容长度: 69668
+2025-07-16 14:53:19,927 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-07-16 14:53:19,947 - INFO - 调试HTML已保存到: debug_booking-com.html
+2025-07-16 14:53:19,947 - INFO - 开始提取主要cashback信息
+2025-07-16 14:53:19,954 - INFO - 开始提取详细cashback比例
+2025-07-16 14:53:19,955 - INFO - 提取结果: Booking Com
+2025-07-16 14:53:19,956 - INFO - 主要cashback: 0%
+2025-07-16 14:53:19,956 - INFO - 详细rates数量: 0
+2025-07-16 14:53:19,962 - INFO - 数据已保存到数据库: Booking Com
+2025-07-16 15:01:45,270 - INFO - 数据库初始化成功
+2025-07-16 15:01:45,270 - INFO - 开始抓取商家页面: https://www.shopback.com.au/agoda
+2025-07-16 15:01:46,278 - INFO - 请求成功，状态码: 200
+2025-07-16 15:01:46,278 - INFO - 内容长度: 355758
+2025-07-16 15:01:46,310 - INFO - 调试HTML已保存到: debug_agoda.html
+2025-07-16 15:01:46,311 - INFO - 开始提取主要cashback信息
+2025-07-16 15:01:46,312 - INFO - 从current-offer找到: Up to 5.5% Cashback
+2025-07-16 15:01:46,315 - INFO - 开始提取详细cashback比例
+2025-07-16 15:01:46,316 - INFO - 找到cashback-rates容器
+2025-07-16 15:01:46,316 - INFO - 提取到rate: Hotels (With Coupon) -> Up to 5.5% Cashback
+2025-07-16 15:01:46,316 - INFO - 提取到rate: 5.5% -> 5.5%
+2025-07-16 15:01:46,316 - INFO - 提取到rate: Hotels -> 5.5%
+2025-07-16 15:01:46,318 - INFO - 提取到rate: 5.5% -> 5.5%
+2025-07-16 15:01:46,318 - INFO - 提取结果: Agoda
+2025-07-16 15:01:46,318 - INFO - 主要cashback: Up to 5.5% Cashback
+2025-07-16 15:01:46,318 - INFO - 详细rates数量: 4
+2025-07-16 15:01:46,324 - INFO - 数据已保存到数据库: Agoda
+2025-07-16 15:01:49,329 - INFO - 开始抓取商家页面: https://www.shopback.com.au/amazon-australia
+2025-07-16 15:01:50,547 - INFO - 请求成功，状态码: 200
+2025-07-16 15:01:50,547 - INFO - 内容长度: 407522
+2025-07-16 15:01:50,588 - INFO - 调试HTML已保存到: debug_amazon-australia.html
+2025-07-16 15:01:50,589 - INFO - 开始提取主要cashback信息
+2025-07-16 15:01:50,589 - INFO - 从current-offer找到: Up to 5% Cashback
+2025-07-16 15:01:50,592 - INFO - 开始提取详细cashback比例
+2025-07-16 15:01:50,593 - INFO - 找到cashback-rates容器
+2025-07-16 15:01:50,593 - INFO - 提取到rate: Up to 5.5% Cashback -> Up to 5% Cashback
+2025-07-16 15:01:50,593 - INFO - 提取到rate: Amazon Devices (Includes Echo, Fire TV & Tablet, Ring Smart Security, Eero Mesh Wi-Fi) -> Up to 5.5% Cashback
+2025-07-16 15:01:50,593 - INFO - 提取到rate: 5% -> 5%
+2025-07-16 15:01:50,593 - INFO - 提取到rate: 5.5% -> 5.5%
+2025-07-16 15:01:50,604 - INFO - 提取到rate: Home Improvement ( Includes Kitchen & Bath, Electrical, Smart Lights, Fans, Hardware ) -> 0.9%
+2025-07-16 15:01:50,604 - INFO - 提取到rate: 0.9% -> 1.4%
+2025-07-16 15:01:50,604 - INFO - 提取到rate: 1.4% -> 0.9%
+2025-07-16 15:01:50,604 - INFO - 提取到rate: Toys (Includes Baby Toys) -> 1.4%
+2025-07-16 15:01:50,604 - INFO - 提取结果: Amazon
+2025-07-16 15:01:50,604 - INFO - 主要cashback: Up to 5% Cashback
+2025-07-16 15:01:50,604 - INFO - 详细rates数量: 8
+2025-07-16 15:01:50,610 - INFO - 数据已保存到数据库: Amazon
+2025-07-16 15:01:53,614 - INFO - 开始抓取商家页面: https://www.shopback.com.au/booking-com
+2025-07-16 15:01:54,408 - INFO - 请求成功，状态码: 200
+2025-07-16 15:01:54,409 - INFO - 内容长度: 373543
+2025-07-16 15:01:54,446 - INFO - 调试HTML已保存到: debug_booking-com.html
+2025-07-16 15:01:54,446 - INFO - 开始提取主要cashback信息
+2025-07-16 15:01:54,447 - INFO - 从current-offer找到: 10% Cashback
+2025-07-16 15:01:54,449 - INFO - 检测到Upsized标签
+2025-07-16 15:01:54,449 - INFO - 从worse-offer找到之前的优惠: 5.5%
+2025-07-16 15:01:54,450 - INFO - 开始提取详细cashback比例
+2025-07-16 15:01:54,450 - INFO - 找到cashback-rates容器
+2025-07-16 15:01:54,450 - INFO - 提取到rate: 11% Cashback -> 10% Cashback
+2025-07-16 15:01:54,450 - INFO - 提取到rate: Upsized -> 5.5%
+2025-07-16 15:01:54,451 - INFO - 提取到rate: Accommodation/Hotels -> 11% Cashback
+2025-07-16 15:01:54,451 - INFO - 提取到rate: 10% -> 10%
+2025-07-16 15:01:54,451 - INFO - 提取到rate: 11% -> 11%
+2025-07-16 15:01:54,451 - INFO - 提取结果: Booking.com
+2025-07-16 15:01:54,451 - INFO - 主要cashback: 10% Cashback
+2025-07-16 15:01:54,451 - INFO - 详细rates数量: 5
+2025-07-16 15:01:54,457 - INFO - 数据已保存到数据库: Booking.com
