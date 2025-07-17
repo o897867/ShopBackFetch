@@ -16,7 +16,7 @@ from datetime import datetime, timedelta
 import logging
 from pathlib import Path
 import json
-
+import schedule
 # 导入我们的抓取器
 from sb_scrap import ShopBackSQLiteScraper, StoreInfo, CashbackRate
 
@@ -90,7 +90,22 @@ db_path = "shopback_data.db"
 # 日志设置
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-
+def auto_rescrape():
+    try:
+        conn = get_db_connection()
+        cursor = conn.cursor()
+        
+        # 获取所有商家URL
+        cursor.execute("SELECT url FROM stores")
+        urls = [row[0] for row in cursor.fetchall()]
+        conn.close()
+        
+        # 执行批量抓取
+        asyncio.run(scrape_multiple_background(urls, 2))
+        
+        logger.info(f"定时抓取完成，共处理 {len(urls)} 个商家")
+    except Exception as e:
+        logger.error(f"定时抓取失败: {e}")
 def get_db_connection():
     """获取数据库连接"""
     conn = sqlite3.connect(db_path)
@@ -563,6 +578,15 @@ async def internal_error_handler(request, exc):
         status_code=500,
         content={"detail": "服务器内部错误"}
     )
+schedule.every(6).hours.do(auto_rescrape)
+
+def run_scheduler():
+    while True:
+        schedule.run_pending()
+        time.sleep(60)
+
+# 启动定时器线程
+threading.Thread(target=run_scheduler, daemon=True).start()
 
 if __name__ == "__main__":
     import uvicorn
